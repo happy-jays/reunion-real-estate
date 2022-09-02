@@ -1,0 +1,34 @@
+.topbar-rw{
+    width:100%;
+    height: 50px;
+    /* background-color: brown; */
+    display: flex;
+    border:1px solid lightgrey;
+}
+select{
+    border: 0px;
+    outline: 0px;
+}
+.topbar-col {
+    /* flex: 1; */
+    /* border:1px solid lightgrey; */
+    margin:10px;
+    text-align: center;
+}
+.topbar-col1{
+    text-align: center;
+}
+/* .topbar-col2{
+    border:1px solid lightgrey;
+} */
+.topbar-col7{
+    width:150px;
+    margin-left:40rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.topbar-col7-col{
+    margin:5px;
+    /* border:1px solid lightgrey; */
+}

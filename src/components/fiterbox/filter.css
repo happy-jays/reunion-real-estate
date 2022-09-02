@@ -1,0 +1,15 @@
+.filter-rw{
+    border:1px solid lightgrey;
+    display: flex;
+    margin:10px;
+    width:69%;
+    margin-left:15rem;
+}
+.filter-col{
+    height: 50px;
+    flex: 1;
+    border:1px solid lightgrey;
+    text-align: center;
+    justify-content: center;
+    font-size: medium;
+}

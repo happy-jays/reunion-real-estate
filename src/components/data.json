@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "imageurl": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Palm Harbour",
+        "address" : "2699 Green Valley, Highland Lake, FL",
+        "rent": "$2,000",
+        "beds": 3,
+        "bath": 2,
+        "area": "5x7",
+        "propertytype":"Houses",
+        "moveindate":"28-09-2022"
+    },
+    {
+        "id": 2,
+        "imageurl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Palm Tree",
+        "address" : "5500 Grand Lake Dr, San Antonio",
+        "rent": "$4,000",
+        "beds": 4,
+        "bath": 2,
+        "area": "5x9",
+        "propertytype":"Flat",
+        "moveindate":"28-10-2022"
+    },
+    {
+        "id": 3,
+        "imageurl": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Great Harbour",
+        "address" : "1500 Pink Valley, Tree Lake, FL",
+        "rent": "$3,000",
+        "beds": 3,
+        "bath": 2,
+        "area": "6x7",
+        "propertytype":"Single Family",
+        "moveindate":"20-09-2022"
+    },
+    {
+        "id": 4,
+        "imageurl": "https://images.unsplash.com/photo-1598228723793-52759bba239c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Sweet Home",
+        "address" : "2231 Blue Lake Dr, San",
+        "rent": "$2,000",
+        "beds": 3,
+        "bath": 2,
+        "area": "5x8",
+        "propertytype":"Houses",
+        "moveindate":"18-10-2022"
+    },
+    {
+        "id": 5,
+        "imageurl": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Blue Heaven",
+        "address" : "2600 Tree Valley, Sun Lake, FL",
+        "rent": "$2,500",
+        "beds": 3,
+        "bath": 2,
+        "area": "6x8",
+        "propertytype":"Single Family",
+        "moveindate":"8-11-2022"
+    },
+    {
+        "id": 6,
+        "imageurl": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Ghar",
+        "address" : "2231 Blue Water,Moon Lake,San",
+        "rent": "$1,500",
+        "beds": 3,
+        "bath": 2,
+        "area": "7x8",
+        "propertytype":"Single Family",
+        "moveindate":"12-12-2022"
+    }
+]

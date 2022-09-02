@@ -1,0 +1,14 @@
+.heading-b1{
+    display: flex;
+    justify-content: space-around;
+}
+select{
+    border: 0px;
+    outline: 0px;
+}
+.heading-b1-c1{
+    margin-top:2.5rem;
+    /* border:1px solid lightgrey; */
+    justify-content: center;
+    align-items: center;
+}
